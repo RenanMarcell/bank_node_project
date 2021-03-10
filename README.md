@@ -1,2 +1,3 @@
 # bank_node_project
-Projeto primeira semana ignite
+
+Projeto desenvolvido apenas seguindo instruções da parte teorica do curso
